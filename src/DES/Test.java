@@ -1,3 +1,5 @@
+package DES;
+
 import java.util.Scanner;
 
 /**
@@ -6,7 +8,7 @@ import java.util.Scanner;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("----DES----");
+        System.out.println("----DES.DES----");
         //创建实例
         DES instance = new DES();
 

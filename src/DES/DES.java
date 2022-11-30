@@ -1,6 +1,8 @@
-import java.util.Scanner;
+package DES;
 
 /**
+ * https://blog.csdn.net/weixin_44087011/article/details/123104619
+ *
  * @author Wang Zengke
  * @since 2022/11/28 17:17
  */
